@@ -1,0 +1,6 @@
+1111	7 kWh
+2222	30 kWh
+3333	Only has meter reading for one month: 65 kWh
+4444	20 kWh
+5555	1 kWh
+6666	4.5 kWh

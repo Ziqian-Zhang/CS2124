@@ -1,0 +1,40 @@
+Make: (unspecified)
+Model: (unspecified)
+License: N/A
+Efficiency Rating: 25
+
+Make: makeCB
+Model: (unspecified)
+License: N/A
+Efficiency Rating: 25
+
+Make: make1
+Model: model1
+License: 123
+Efficiency Rating: 25
+
+Make: make2
+Model: (unspecified)
+License: 456
+Efficiency Rating: 20
+
+Change license of c2...
+Make: make2
+Model: (unspecified)
+License: 1010
+Efficiency Rating: 20
+
+--NOTE: results for the following will vary due to rand()!--
+
+Drive c1...
+c1 drove 8 miles
+c1 has 14.68 gallons left
+
+Drive c2...
+c2 drove 25 miles
+c2 has 0 gallons left
+
+Drive c2...
+No gas!
+c2 drove 0 miles
+c2 has 0 gallons left
